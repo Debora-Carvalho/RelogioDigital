@@ -1,5 +1,5 @@
 <p align="center">
-  <img loading="lazy" src="assets/img/capa-projetoRelogioDigital.jpeg"  width="600" height="auto"  alt="Capa do projeto 'Lâmpada'"/>
+  <img loading="lazy" src="assets/img/capa-projetoRelogioDigital.jpeg"  width="600" height="auto"  alt="Capa do projeto 'Relógio Digital'"/>
 </p>
 
 <h1>🕰️Relógio Digital</h1>
